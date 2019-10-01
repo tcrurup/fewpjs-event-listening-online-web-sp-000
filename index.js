@@ -1,3 +1,3 @@
 function addingEventListener() {
-  document.getElementById('main').addEventListener('click', alert('Clikc success'));
+  document.getElementById('input').addEventListener('click', alert('Clikc success'));
 }
